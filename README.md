@@ -1,6 +1,6 @@
 # Word_Count
 
-Link: https://gowthammca23.github.io/Word_Count/
+Link: https://beskijoseph.github.io/word-count/
 
 WORD COUNT
 
